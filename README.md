@@ -1,6 +1,6 @@
 # Tennis Booking App
 
-Una aplicación de Flutter para gestionar reservas de pistas de tenis. Esta aplicación demuestra el uso del patrón BLoC para la gestión del estado, principios de arquitectura limpia y temas dinámicos (claro y oscuro).
+Una aplicación de Flutter para gestionar reservas de Canchas de tenis. Esta aplicación demuestra el uso del patrón BLoC para la gestión del estado, principios de arquitectura limpia y temas dinámicos (claro y oscuro).
 
 ## Características
 
