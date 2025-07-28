@@ -92,23 +92,6 @@ El proyecto sigue los principios de la Arquitectura Limpia para separar las resp
 └── main.dart                   # Punto de entrada de la aplicación.
 ```
 
-## Cómo Empezar
-
-### Prerrequisitos
-
--   Tener el [SDK de Flutter](https://flutter.dev/docs/get-started/install) instalado.
-
-### Instalación
-
-1.  Clona el repositorio:
-    ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    ```
-2.  Instala las dependencias:
-    ```bash
-    flutter pub get
-    ```
-
 ### Ejecutar la Aplicación
 
 ```bash
